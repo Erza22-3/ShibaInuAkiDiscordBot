@@ -1,0 +1,7 @@
+
+discord.py>=2.5.2
+python-dotenv>=1.0.0
+requests>=2.32.3
+flask>=3.0.0
+PyPDF2>=3.0.1
+replit>=3.3.2
